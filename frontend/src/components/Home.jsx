@@ -47,7 +47,6 @@ const Home = () => {
         console.log(e)
       })
     }
-   
   return (
     <div className='w-full mx-auto'>
       <div className='text-center font-raleway w-full max-w-5xl mx-auto my-6'>
